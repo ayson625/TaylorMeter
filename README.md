@@ -1,5 +1,5 @@
 # TaylorMeter
-Program for auto-measuring bubble and slug in taylor flow regime
+Program for auto-measuring bubble and slug in Taylor flow in microchannels
 
 [![Скачать приложение](https://img.shields.io/badge/↓_Download-2563EB?style=for-the-badge)](https://github.com/ayson625/TaylorMeter/releases/latest/download/TaylorMeter_3.0.zip)
 

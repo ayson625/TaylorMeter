@@ -1,8 +1,7 @@
 # TaylorMeter
 Program for auto-measuring bubble and slug in taylor flow regime
 
-Download the program
-https://github.com/ayson625/TaylorMeter/releases/latest
+[Download the program](https://github.com/ayson625/TaylorMeter/releases/latest)
 
 1.Unzip the archive
 
